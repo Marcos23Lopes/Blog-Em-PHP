@@ -31,5 +31,6 @@ com o banco de dados.
 
 Após rodar o banco de dados, ir no seu navegador http://localhost/blog/ e pronto ja esta rodando o arquivo, caso queira fazer alterações no codigo eu utilizei Visual Studio Code.
 
+Para editar arquivos e excluir conteudo basta acessar, http://localhost/blog/admin/
 
 
