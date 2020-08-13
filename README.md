@@ -19,8 +19,10 @@ Linux Ubuntu/Debian:
 No Linux, recomendo instalar o que precisa diretamente dos pacotes da distribuição, isso pode variar de distribuição para distribuição.
 
 sudo apt-get update
+
 sudo apt-get install php default-mysql-server php-mysql apache2 libapa
-Estou utilizando o Xampp para rodar local na minha maquina, com ele ja temos o Apache e Mysql para 
+
+ 
 
 
 Iniciar Apache e Mysql
